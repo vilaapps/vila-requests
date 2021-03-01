@@ -53,7 +53,7 @@
     "type": "git",
     "url": "https://github.com/vilaapps/vila-requests.git"
   },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "description": "Esta biblioteca oferece um template de utilização junto a biblioteca de requisições, Axios. Além disso, oferece também tratamento de respostas falhas e bem sucedidas.",
   "bugs": {
     "url": "https://github.com/vilaapps/vila-requests/issues"
   },
