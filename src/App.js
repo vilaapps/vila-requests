@@ -1,9 +1,15 @@
-import React from 'react'
-import Test from './lib/index'
+import React, { useEffect } from 'react'
+import { 
+    get,
+    post,
+    put,
+    destroy,
+    setAuthorizationToken,
+ } from './lib/index'
 
 export default () => {
 
     return <div>
-        <Test />
+        <p>TESTE</p>
     </div>
 }
